@@ -24,4 +24,10 @@ Run the compiled program:
 
 
 Example: 
+
+
 ![Tic Tac Toe Screenshot](screenshot.png)
+
+
+License:
+Feel free to use, modify, and share 💖
