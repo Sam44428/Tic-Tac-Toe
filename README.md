@@ -24,3 +24,4 @@ Run the compiled program:
 
 
 Example: 
+![Tic Tac Toe Screenshot](screenshot.png)
